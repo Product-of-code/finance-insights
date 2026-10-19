@@ -1,0 +1,6 @@
+venv/
+ollama.log
+venv/
+ollama.log
+__pycache__/
+*.pkl
